@@ -1,0 +1,17 @@
+.section__info {
+  background: #000000;
+  background: -webkit-linear-gradient(to right, #434343, #000000);
+  background: linear-gradient(to right, #434343, #000000);
+  color: white;
+}
+
+.section__userCard {
+  background-color: #00000064;
+  border: 4px solid rgba(38, 255, 0, 0.749);
+}
+
+
+
+.animated-border {
+  animation: border-animation 2s ease-in-out infinite;
+}
